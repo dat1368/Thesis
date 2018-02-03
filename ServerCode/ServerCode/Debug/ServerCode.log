@@ -1,0 +1,8 @@
+﻿  Source.cpp
+f:\tidat_study\thesis\servercode\servercode\source.cpp(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\servercode\servercode\source.cpp(198): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\servercode\servercode\source.cpp(314): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\servercode\servercode\source.cpp(322): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\servercode\servercode\source.cpp(331): warning C4101: 'i': unreferenced local variable
+  ServerCode.vcxproj -> F:\TIDAT_Study\THESIS\ServerCode\Debug\ServerCode.exe
+  ServerCode.vcxproj -> F:\TIDAT_Study\THESIS\ServerCode\Debug\ServerCode.pdb (Partial PDB)

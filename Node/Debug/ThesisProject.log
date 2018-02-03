@@ -1,0 +1,12 @@
+﻿  forecast.cpp
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(209): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(217): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(394): warning C4101: 'i': unreferenced local variable
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(581): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(589): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(605): warning C4129: ':': unrecognized character escape sequence
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(749): warning C4018: '<': signed/unsigned mismatch
+f:\tidat_study\thesis\thesisproject\thesisproject\forecast.cpp(758): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  ThesisProject.vcxproj -> F:\TIDAT_Study\THESIS\ThesisProject\Debug\ThesisProject.exe
+  ThesisProject.vcxproj -> F:\TIDAT_Study\THESIS\ThesisProject\Debug\ThesisProject.pdb (Partial PDB)
